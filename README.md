@@ -5,7 +5,7 @@ Web Dev to AI Wizard: Exploring Deep Learning &amp; Machine Learning, one line o
 ###
 
 <div align="center">
-    <a href="https://imgflip.com/i/9cqc6d"><img src="https://i.imgflip.com/9cqc6d.jpg" height="150" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+    <a href="https://imgflip.com/i/9cqc6d"><img src="https://i.imgflip.com/9cqc6d.jpg" height="350" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 </div>
 
 ###
