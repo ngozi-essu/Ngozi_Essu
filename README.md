@@ -59,12 +59,11 @@ Web Dev to AI Wizard: Exploring Deep Learning &amp; Machine Learning, one line o
 
 ###
 
-<img src="https://raw.githubusercontent.com/ngozi-essu/ngozi-essu/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ngozi-essu/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ngozi-essu/count.svg?" color = blue />
 </div>
 
 ###
