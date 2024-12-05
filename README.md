@@ -63,7 +63,7 @@ Web Dev to AI Wizard: Exploring Deep Learning &amp; Machine Learning, one line o
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ngozi-essu/count.svg?" color = blue />
+  <img src="https://profile-counter.glitch.me/ngozi-essu/count.svg?" color = "blue" />
 </div>
 
 ###
