@@ -71,7 +71,7 @@ Web Dev to AI Wizard: Exploring Deep Learning &amp; Machine Learning, one line o
 
 <div align="center">
   <a href="https://open.spotify.com/user/Essu Ngozi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Essu%20Ngozi&count=5&unique=true" alt="Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3127eq2kcslpmeun46regvemdqlu&unique={true|1|on|yes}"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3127eq2kcslpmeun46regvemdqlu&unique={true|1|on|yes}"  />
   </a>
 </div>
 
